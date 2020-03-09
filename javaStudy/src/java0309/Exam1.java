@@ -12,6 +12,7 @@ public class Exam1 {
 			System.out.println("test1");
 		}
 		
+		
 		if(x < y)
 			System.out.println("x는y와 같습니다.");
 			System.out.println("test2");
