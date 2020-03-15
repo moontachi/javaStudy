@@ -20,6 +20,9 @@ public class Exam_5 {
 					System.out.print("*");
 				}
 				
+				
+				
+				
 				System.out.println();
 			}
 
