@@ -11,16 +11,14 @@ public class Exam_7 {
           while(true){
                System.out.print("숫자 입력 >");
                int sn = scanner.nextInt();
-                 
+                 i++;
                if(answer != sn && answer > sn){
                     System.out.println("응 아니야~~ 더커~~");
-                    i++;
                   
                }else if(answer != sn && answer < sn){
                     System.out.println("응 아니야~~ 더작아~~");
-                    i++;
                }else if(answer == sn){
-                    System.out.println("ㅅㄱ여 밥먹으로감"+i+"손안아프냐?");
+                    System.out.println("ㅅㄱ여 밥먹으로감"+ i +"손안아프냐?");
                     System.exit(0); 
                }
           }
