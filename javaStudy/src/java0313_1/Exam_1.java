@@ -9,6 +9,7 @@ public class Exam_1 {
 				 }
 				 	  System.out.println();
 			 }
+			 
 	}
 
 }
