@@ -1,7 +1,7 @@
 package javasky;
 
 public class 드랍쉽 extends 탈것 {
-
+//extends [상속 확장] 탈것의 개념 을 드랍쉽으로 상속
 	public void 마린_탑승(int x) {
 		int 탑승후인원 = x + now;
 		str = "마린";

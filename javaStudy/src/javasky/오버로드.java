@@ -6,7 +6,9 @@ public class 오버로드 extends 탈것{
 		     int 탑승후인원 = x+now;
 		      str = "저글링";
 		    this.탑승후(탑승후인원);
+		    //this 자기 자신을 부를 때 
 	}
+	
 	
 	public void 히드라_탑승(int x) {
 		int 탑승후인원 = (x*2)+now;
