@@ -3,7 +3,7 @@ package question;
 import java.util.Scanner;
 
 public class java_pibonachi {
-    //반복문을 사용한 피보나치 수열
+    //반복문을 사용한 피보나치 수열.
 	public static long pibonachi(int number) {
 		long i = 1;
 		long j = 1;
