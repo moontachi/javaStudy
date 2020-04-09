@@ -1,7 +1,7 @@
 package question;
 
 public class java_factorial {
-	//재귀 함수를 이용한 factorial 함수 
+	//재귀 함수를 이용한 factorial 함수. 
 	public static int factorial(int number) {
 		if(number == 1) {
 			return 1;
